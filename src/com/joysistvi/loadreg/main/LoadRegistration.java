@@ -1,8 +1,8 @@
-package Capstone;
+package com.joysistvi.loadreg.main;
 
 import java.util.Scanner;
 
-public class Capstone1_Menorca {
+public class LoadRegistration {
     static Scanner scanner = new Scanner(System.in);
     static double balance = 500.00;
     static boolean hasActivePromo = false;
